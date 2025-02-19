@@ -7,4 +7,7 @@ public class Main {
         System.out.println("caleb waz here 2");
 
     }
+    public void CoolPullRequest() {
+        System.out.println("test");
+    }
 }
